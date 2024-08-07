@@ -11,8 +11,10 @@
   "description": "",
   "dependencies": {
     "@cucumber/cucumber": "^10.8.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
     "assert": "^2.1.0",
     "cucumber": "^6.0.7",
+    "dotenv": "^16.4.5",
     "mqtt": "^5.9.0"
   },
   "devDependencies": {
