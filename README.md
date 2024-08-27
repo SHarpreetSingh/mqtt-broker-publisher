@@ -1,6 +1,6 @@
 # mqtt-broker-publisher
 
-- first install package
+- first install packages
 
         npm install
 
